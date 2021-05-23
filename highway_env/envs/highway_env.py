@@ -134,6 +134,6 @@ class HighwayEnv(AbstractEnv):
 
 
 register(
-    id='highway-v0',
+    id='highway-v1',
     entry_point='highway_env.envs:HighwayEnv',
 )
